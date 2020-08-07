@@ -16,10 +16,24 @@ Ruby On Railsを用いたWEBアプリ開発を１年ほど行った後に、渡�
 ### アマトリウム株式会社
 
 CTO (2018/08 - 現在)
-- WEB
-- iOS
-- **tvOS向けアプリの開発**
+- **iOS**
+  - [役割] iOSエンジニア(1人体制)
+  - [技術] Swift, AWS AppSync, Firebase, ライブラリ等([KingFisher](https://github.com/onevcat/Kingfisher), [Nuke](https://github.com/kean/Nuke), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [Alamofire](https://github.com/Alamofire/Alamofire), [SwiftJWT](https://github.com/IBM-Swift/Swift-JWT), [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift))
+  - [担当箇所、凝った箇所、悩んだ箇所など]
+    - **FatViewcontroller**
+      - Reactiveなフレームワークを使わなくてもシンプルに実装出来るMVVMを実装した。スタートアップなのでReactiveを習得する学習コストを払う余裕がなかった
+      - 後にReactiveSwiftを導入して整備した
+    - SwiftGen
+    - メンバーの喪失
+    
+- **WEB**
   - [役割] フロントエンジニア(1人体制)
+  - [技術] Swift, ライブラリ等([Multipeer Connectivity](https://developer.apple.com/documentation/multipeerconnectivity))
+  - [担当箇所、凝った箇所、悩んだ箇所など]
+    - 社内ツールの作成
+    
+- **tvOS向けアプリの開発**
+  - [役割] フロントエンジニア等(1人体制)
   - [技術] Swift, ライブラリ([Multipeer Connectivity](https://developer.apple.com/documentation/multipeerconnectivity))
   - [担当箇所、凝った箇所、悩んだ箇所など]
     - iOSからの操作性を向上させるためにMultipeer Connectivityで通信するデータ量を最適化して減らした
