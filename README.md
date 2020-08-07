@@ -32,7 +32,7 @@ CTO (2018/08 - 現在)
   - [役割] フロントエンジニア(3人体制)
   - [技術] Nuxt.js, Vue.js, AWS, [Stackery](https://www.stackery.io/), Firebase, [Datomic Cloud](https://docs.datomic.com/cloud/index.html), [Dark](https://darklang.com/)
   - [担当箇所、凝った箇所、悩んだ箇所など]
-    - 社内ツールの作成
+    - コンテンツの管理担当者を分担するために社内ツールを作成
       - 作成したアプリケーションのCMSとして[Retool](https://retool.com/)で社内ツールを作成した
     
 - **tvOS向けアプリの開発**
