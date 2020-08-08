@@ -29,7 +29,7 @@ CTO (2018/08 - 現在)
       - 2020年冒頭よりバックエンドを担当していたエンジニアが健康上の理由により急遽抜けた。そこから自分がAWS Cloud Formation用いたクラウド開発も含めてフルスタックで開発。ドキュメントの大事さを噛み締めた。
     
 - **WEBアプリ開発**
-  - [役割] フロントエンジニア(3人体制)
+  - [役割] フロントエンジニア(2人体制)
   - [技術] Nuxt.js, Vue.js, AWS(Cloud Formation, DynamoDB, Cloud Watch, Cognito), [Stackery](https://www.stackery.io/), Firebase(Function), [Datomic Cloud](https://docs.datomic.com/cloud/index.html), [Dark](https://darklang.com/)
   - [担当箇所、凝った箇所、悩んだ箇所など]
     - コンテンツの管理担当者を分担するために社内ツールを作成
