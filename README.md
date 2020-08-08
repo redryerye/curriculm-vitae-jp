@@ -18,7 +18,7 @@ Ruby On Railsを用いたWEBアプリ開発を１年ほど行った後に、渡�
 CTO (2018/08 - 現在)
 - **iOS向けアプリの開発**
   - [役割] iOSエンジニア(1人体制)
-  - [技術] Swift, AWS(Cloud Formation, App Sync, Cognito, DynamoDB, Cloud Watch), Firebase(Analytics, Cloud Message), [Datomic Cloud](https://docs.datomic.com/cloud/index.html), [Dark](https://darklang.com/), ライブラリ等([KingFisher](https://github.com/onevcat/Kingfisher), [Nuke](https://github.com/kean/Nuke), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [Alamofire](https://github.com/Alamofire/Alamofire), [SwiftJWT](https://github.com/IBM-Swift/Swift-JWT), [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift))
+  - [技術] Swift, Clojure, AWS(Cloud Formation, App Sync, Cognito, DynamoDB, Cloud Watch), Firebase(Analytics, Cloud Message), [Datomic Cloud](https://docs.datomic.com/cloud/index.html), [Dark](https://darklang.com/), ライブラリ等([KingFisher](https://github.com/onevcat/Kingfisher), [Nuke](https://github.com/kean/Nuke), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [Alamofire](https://github.com/Alamofire/Alamofire), [SwiftJWT](https://github.com/IBM-Swift/Swift-JWT), [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift))
   - [担当箇所、凝った箇所、悩んだ箇所など]
     - **FatViewcontroller**
       - Reactiveなフレームワークを使わなくてもシンプルに実装出来る[MVVMを実装した](https://speakerdeck.com/redryerye/implementing-mvvm-in-2019)。スタートアップなのでReactiveを習得する学習コストを払う余裕がなかった
@@ -32,7 +32,7 @@ CTO (2018/08 - 現在)
     
 - **WEBアプリ開発**
   - [役割] フロントエンジニア(2人体制)
-  - [技術] Nuxt.js, Vue.js, AWS(Cloud Formation, DynamoDB, Cloud Watch, Cognito), [Stackery](https://www.stackery.io/), Firebase(Function), [Datomic Cloud](https://docs.datomic.com/cloud/index.html), [Dark](https://darklang.com/)
+  - [技術] Nuxt.js, Vue.js, Clojure, AWS(Cloud Formation, DynamoDB, Cloud Watch, Cognito), [Stackery](https://www.stackery.io/), Firebase(Function), [Datomic Cloud](https://docs.datomic.com/cloud/index.html), [Dark](https://darklang.com/)
   - [担当箇所、凝った箇所、悩んだ箇所など]
     - コンテンツの管理担当者を分担するために社内ツールを作成
       - 作成したアプリケーションのCMSとして[Retool](https://retool.com/)で社内ツールを作成した
