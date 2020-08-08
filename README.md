@@ -21,7 +21,7 @@ CTO (2018/08 - 現在)
   - [技術] Swift, AWS(Cloud Formation, App Sync, Cognito, DynamoDB, Cloud Watch), Firebase(Analytics, Cloud Message), [Datomic Cloud](https://docs.datomic.com/cloud/index.html), [Dark](https://darklang.com/), ライブラリ等([KingFisher](https://github.com/onevcat/Kingfisher), [Nuke](https://github.com/kean/Nuke), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [Alamofire](https://github.com/Alamofire/Alamofire), [SwiftJWT](https://github.com/IBM-Swift/Swift-JWT), [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift))
   - [担当箇所、凝った箇所、悩んだ箇所など]
     - **FatViewcontroller**
-      - Reactiveなフレームワークを使わなくてもシンプルに実装出来るMVVMを実装した。スタートアップなのでReactiveを習得する学習コストを払う余裕がなかった
+      - Reactiveなフレームワークを使わなくてもシンプルに実装出来る[MVVMを実装した](https://speakerdeck.com/redryerye/implementing-mvvm-in-2019)。スタートアップなのでReactiveを習得する学習コストを払う余裕がなかった
       - 後にReactiveSwiftを導入して整備した
     - Assetがプロジェクトが成長するにつれて肥大化した
       - SwiftGenを用いて一箇所にまとめ、動的に生成することで変更や管理が楽になった
@@ -40,12 +40,12 @@ CTO (2018/08 - 現在)
   - [技術] Swift, ライブラリ([Multipeer Connectivity](https://developer.apple.com/documentation/multipeerconnectivity))
   - [担当箇所、凝った箇所、悩んだ箇所など]
     - iOSからの操作性を向上させるためにMultipeer Connectivityで通信するデータ量を最適化して減らした
-    - tvOSの知見がインターネットで少ないのを知った（これをきっかけに登壇を決意した）
+    - tvOSの知見がインターネットで少ないのを知った（これをきっかけに[登壇](https://speakerdeck.com/redryerye/implement-p2p-connection-and-stream-your-content)を決めた）
 - **チームビルディング(エンジニア採用、スクラムの導入)**
   - [役割] プロダクトオーナー
   - [担当箇所、凝った箇所、悩んだ箇所など]
     - チームのメンタル管理とプロダクティビティの向上
-      - チームに根ざしたスクラムに変えるためのイテレーションを重ねた。レトロスペクティブの進め方を一定期間ごとに変えることで新鮮な空気が流れ、チームの活性化につながった
+      - チームに根ざしたスクラムに変えるためのイテレーションを重ねた。レトロスペクティブの進め方を定期的に変えることでマンネリ化を防止し、チームの活性化につながった
     - リモート化の対応
       - コミュニケーションの機会を増やすため、開発者間のコラボレーションの多いタスクを作るようにした事でチームとしての一体感を取り戻せた
       
@@ -61,7 +61,7 @@ CTO (2018/08 - 現在)
   - [技術] Ruby On Rails, MySQL
   - [担当箇所、凝った箇所、悩んだ箇所など]
     - 初めてのWeb開発
-      - MVCを意識した開発を学べたほか、データベースの管理も習得した
+      - MVCを意識した開発を学べたほか、MySQLでのデータベース管理を習得した
       - 複数人で開発する時は命名規則が特に大事だと思った
 
 ## 登壇実績
