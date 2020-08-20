@@ -17,7 +17,7 @@ Ruby On Railsを用いたWEBアプリ開発を１年ほど行った後に、渡�
 
 CTO (2018/08 - 現在)
 - **iOS向けアプリの開発**
-  - [役割] iOSエンジニア(1人体制)
+  - [役割] iOSエンジニア(2人体制)
   - [技術] Swift, Clojure, AWS(Cloud Formation, App Sync, Cognito, DynamoDB, Cloud Watch), Firebase(Analytics, Cloud Message), [Datomic Cloud](https://docs.datomic.com/cloud/index.html), [Dark](https://darklang.com/), ライブラリ等([KingFisher](https://github.com/onevcat/Kingfisher), [Nuke](https://github.com/kean/Nuke), [SwiftGen](https://github.com/SwiftGen/SwiftGen), [Alamofire](https://github.com/Alamofire/Alamofire), [SwiftJWT](https://github.com/IBM-Swift/Swift-JWT), [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift))
   - [担当箇所、凝った箇所、悩んだ箇所など]
     - **FatViewcontroller**
@@ -26,7 +26,7 @@ CTO (2018/08 - 現在)
     - Assetがプロジェクトが成長するにつれて肥大化した
       - SwiftGenを用いて一箇所にまとめ、動的に生成することで変更や管理が楽になった
     - Immutableなデータ構造を実現するためにDatomicをバックエンドに採用
-      - チームのアーキテクトの発案でClojureで実装するDatomic Cloudをデータベースに使用した。各データがDatomic上で保有する[Datoms](https://docs.datomic.com/cloud/whatis/data-model.html)と言うデータタイプを使うことで、他のプラットフォームでは実現できないフレキシブルなスキーマ設計が可能になった
+      - チームのアーキテクトの発案でClojureベースのDatomic Cloudをデータベースに使用した。各データが[Datoms](https://docs.datomic.com/cloud/whatis/data-model.html)と言うデータタイプで構築されているため、他のプラットフォームでは実現できないフレキシブルなスキーマ設計が可能になった
     - バックエンドエンジニアの体調不良をカバー
       - 2020年冒頭よりバックエンドを担当していたエンジニアが健康上の理由により急遽抜けた。そこから自分がAWS Cloud Formation用いたクラウド開発も含めてフルスタックで開発。ドキュメントの大事さを噛み締めた。
     
