@@ -24,7 +24,7 @@ iOS Engineerとして、[COFFEE App](https://apps.apple.com/us/app/coffee-app/id
 CTOとして、[VALL](https://harumari.tokyo/spot/48468/)の立ち上げを担当しました。スクラム開発を導入してチームマネジメントをしながらiOS/tvOSアプリやWeb、バックエンドの開発を行いました。
   
 - FatなViewControllerを解決するためにMVVMを導入し、SwiftGenを用いてAssetの管理を簡易化
-- apollo-iosを使用したGraphQLクライアントの実装
+- [apollo-ios](https://github.com/apollographql/apollo-ios)を使用したGraphQLクライアントの実装
 - Clojureをベースとした[Datomic](https://www.datomic.com/)を使ったバックエンドの開発
 - Vue.jsとNuxt.jsを用いた作品をアップロードするWEBアプリの開発
 - [Multipeer Connectivity](https://developer.apple.com/documentation/multipeerconnectivity)を利用したiOSアプリからApple TVへの通信を実装
