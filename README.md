@@ -24,7 +24,8 @@ iOS Engineerとして、[COFFEE App](https://apps.apple.com/us/app/coffee-app/id
 ### 2018/08-2020/09 アマトリウム株式会社
 CTOとして、アート作品の投影サービス[VALL](https://harumari.tokyo/spot/48468/)の立ち上げを担当しました。スクラム開発を導入してチームマネジメントをしながらiOS/tvOSアプリやWeb、バックエンドの開発を行いました。
   
-- FatなViewControllerを解決するためにMVVMを導入し、SwiftGenを用いてAssetの管理を簡易化
+- 立ち上げからApp Storeでのリリースと運用までiOSアプリを開発
+- 肥大化したViewControllerを解決するためにMVVMを導入
 - [apollo-ios](https://github.com/apollographql/apollo-ios)を使用したGraphQLクライアントの実装
 - Clojureをベースとした[Datomic](https://www.datomic.com/)を使ったバックエンドの開発
 - Vue.jsとNuxt.jsを用いた作品をアップロードするWEBアプリの開発
@@ -34,7 +35,7 @@ CTOとして、アート作品の投影サービス[VALL](https://harumari.tokyo
 ---
 
 ### 2016/12 - 2017/07 株式会社メディオテック
-WEBエンジニアのインターンをして、MVCをベースとして施工管理のWEBアプリケーションの開発を行いました。
+WEBエンジニアのインターンとして、施工管理のWEBアプリケーションのRuby on Railsを使った開発を行いました。
 
 ## 登壇実績
 |Year|Title|Event|
