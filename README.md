@@ -5,7 +5,7 @@
 |||
 |---|-----|
 |Name|山本裕貴 (Yuki Yamamoto)|
-|Twitter|[@redryerye](https://twitter.com/home)|
+|Twitter|[@redryerye](https://twitter.com/redryerye)|
 |Github|[@redryerye](https://github.com/redryerye)|
 |Speaker Deck|[@redryerye](https://speakerdeck.com/redryerye)|
 |Qiita|[@redryerye](https://qiita.com/redryerye)|
