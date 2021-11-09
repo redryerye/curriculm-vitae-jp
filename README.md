@@ -24,7 +24,7 @@ iOS Engineerとして、[COFFEE App](https://apps.apple.com/us/app/coffee-app/id
 ### 2018/08-2020/09 アマトリウム株式会社
 CTOとして、アート作品の投影サービス[VALL](https://harumari.tokyo/spot/48468/)の立ち上げを担当しました。スクラム開発を導入してチームマネジメントをしながらiOS/tvOSアプリやWeb、バックエンドの開発を行いました。
   
-- 立ち上げからApp Storeでのリリースと運用までiOSアプリを開発
+- 立ち上げからApp Storeでのリリース、運用までiOSアプリを開発
 - 肥大化したViewControllerを解決するためにMVVMを導入
 - [apollo-ios](https://github.com/apollographql/apollo-ios)を使用したGraphQLクライアントの実装
 - Clojureをベースとした[Datomic](https://www.datomic.com/)を使ったバックエンドの開発
