@@ -17,7 +17,7 @@
 ### 2020/10-現在 株式会社カンカク
 iOS Engineerとして、[COFFEE App](https://apps.apple.com/us/app/coffee-app/id1470570852)のiOSアプリとApp Clipなどの開発をしています。
 
-- [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)を利用したiOSアプリの開発
+- [The Composable Architecture](https://github.com/pointfreeco/swift-composable-architecture)を利用したiOSアプリやApp Clipsの開発
 - TAILORED CAFE/KITASANDO COFFEEの電子メニュー(iPadアプリ)の開発
 
 
